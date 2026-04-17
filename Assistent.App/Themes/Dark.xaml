@@ -1,0 +1,20 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="Brush.WindowBackground" Color="#0B0B10" />
+    <SolidColorBrush x:Key="Brush.Surface" Color="#12121A" />
+    <SolidColorBrush x:Key="Brush.SurfaceElevated" Color="#1A1A24" />
+    <SolidColorBrush x:Key="Brush.Primary" Color="#7C3AED" />
+    <SolidColorBrush x:Key="Brush.PrimaryHover" Color="#6D28D9" />
+    <SolidColorBrush x:Key="Brush.PrimaryMuted" Color="#A78BFA" />
+    <SolidColorBrush x:Key="Brush.TextPrimary" Color="#F5F3FF" />
+    <SolidColorBrush x:Key="Brush.TextSecondary" Color="#C4B5FD" />
+    <SolidColorBrush x:Key="Brush.Border" Color="#3B3558" />
+    <SolidColorBrush x:Key="Brush.UserBubble" Color="#1E1E2E" />
+    <SolidColorBrush x:Key="Brush.UserBubbleBorder" Color="#5B21B6" />
+    <SolidColorBrush x:Key="Brush.AssistantBubble" Color="#1A1528" />
+    <SolidColorBrush x:Key="Brush.AssistantBubbleBorder" Color="#6D28D9" />
+    <SolidColorBrush x:Key="Brush.Error" Color="#F87171" />
+    <SolidColorBrush x:Key="Brush.Success" Color="#34D399" />
+    <SolidColorBrush x:Key="Brush.InputBackground" Color="#16161F" />
+    <SolidColorBrush x:Key="Brush.Shadow" Color="#66000000" />
+</ResourceDictionary>

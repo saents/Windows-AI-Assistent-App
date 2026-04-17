@@ -1,0 +1,54 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+**/bin/
+**/obj/
+
+# Visual Studio / MSBuild
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.FileListAbsolute.txt
+*.rsuser
+project.lock.json
+artifacts/
+
+# Rider / VS Code (optional local tooling)
+.idea/
+.vscode/
+*.DotSettings.user
+
+# Test / coverage
+TestResults/
+[Tt]emp/
+*.trx
+coverage*.json
+coverage*.xml
+
+# NuGet (legacy / local feeds)
+packages/
+*.nupkg
+
+# Publish / pack output (if you publish next to repo)
+publish/
+*.publishproj.user
+
+# OS junk
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Local models (large binaries — keep folder, ignore weights)
+*.gguf
+*.gguf.*
+
+# Node (if you add JS tooling later)
+node_modules/
+
+# Secrets — never commit real keys; use User Secrets or env vars
+appsettings.*.local.json
+secrets.json

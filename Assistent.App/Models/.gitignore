@@ -1,0 +1,2 @@
+# Drop your .gguf files here locally; they are not committed.
+*.gguf
